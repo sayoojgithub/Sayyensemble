@@ -261,7 +261,7 @@ const downloadInvoice = async (req, res) => {
 
 
       sender: {
-        company: "Smart Wrist",
+        company: "SAYYENSEMBLE",
         address: "Brototype",
         zip: "686633",
         city: "Maradu",
